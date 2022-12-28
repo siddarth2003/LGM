@@ -1,0 +1,34 @@
+.container-align {
+    background-image: url("https://img.freepik.com/free-vector/gradient-black-backgrounds-with-golden-frames_23-2149150610.jpg?size=626&ext=jpg&ga=GA1.1.126917791.1672219717");
+    padding: 20px;
+    background-size: cover;
+    height: 100%;
+}
+
+.para-name {
+    padding-top: 15px;
+    color: white;
+    font-size: 20px;
+    font-family: "Roboto";
+}
+
+.para-no {
+    color: white;
+}
+
+.img-align {
+    width: 120px;
+    height: 60px;
+}
+
+.align-getuser {
+    font-size: 20px;
+    color: #000000  ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.align-head-get {
+    font-size: 30px;
+    color: #000000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
